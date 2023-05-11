@@ -1,8 +1,8 @@
 {
-    "name": "log-events",
+    "name": "Final Project",
     "version": "1.0.0",
-    "description": "To Log Events in the server",
-    "main": "index.js",
+    "description": "INF 653",
+    "main": "server.js",
     "scripts": {
         "start": "nodemon server.js"
     },
